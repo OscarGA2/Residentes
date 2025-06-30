@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\Dtos\Loan\" />
+    <Folder Include="Entities\Dtos\Services\" />
+    <Folder Include="Entities\Dtos\Residents\Account\" />
+    <Folder Include="Entities\Dtos\Residents\Visits\" />
+    <Folder Include="Entities\Dtos\Residents\Security\" />
+  </ItemGroup>
+
+</Project>
