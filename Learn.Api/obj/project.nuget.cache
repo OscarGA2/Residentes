@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "2JjEvdPh61Y=",
+  "dgSpecHash": "07CnAhBK/5I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Canica\\source\\Estadia\\FraccionamientoV3\\Learn.Api\\Learn.Api.csproj",
+  "projectFilePath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api\\Learn.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Canica\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
-    "C:\\Users\\Canica\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\Oscar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Oscar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }
