@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "n9tl6EthHs4=",
+  "dgSpecHash": "2uNDs8zX7vU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.UseCases\\Learn.Api.UseCases.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.UseCases\\Learn.Api.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Canica\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.6\\microsoft.extensions.dependencyinjection.9.0.6.nupkg.sha512",
+    "C:\\Users\\Canica\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.6\\microsoft.extensions.dependencyinjection.abstractions.9.0.6.nupkg.sha512"
+  ],
   "logs": []
 }

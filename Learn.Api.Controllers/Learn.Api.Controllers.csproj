@@ -7,9 +7,21 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Loan\" />
-    <Folder Include="Services\" />
-    <Folder Include="Residents\" />
+    <Compile Remove="Residents\**" />
+    <Compile Remove="Services\**" />
+    <EmbeddedResource Remove="Residents\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="Residents\**" />
+    <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Learn.Api.BusinessObjects\Learn.Api.BusinessObjects.csproj" />
+    <ProjectReference Include="..\Learn.Api.Domain\Learn.Api.Domain.csproj" />
   </ItemGroup>
 
 </Project>

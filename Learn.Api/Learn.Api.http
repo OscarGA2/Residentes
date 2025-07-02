@@ -1,6 +1,29 @@
 @Learn.Api_HostAddress = http://localhost:5253
 
-GET {{Learn.Api_HostAddress}}/weatherforecast/
-Accept: application/json
+
+
+
+POST {{Learn.Api_HostAddress}}/api/loan/add
+Content-Type: application/json
+
+{
+  
+  "addLoans": "DFGD",
+  "material": "DGF",
+  "date": "2012-12-12T00:00:00",
+  "refund": "2001-01-01",
+  "status":"Sin Recoger"
+}
+###
+
+GET {{Learn.Api_HostAddress}}/api/loan/get
 
 ###
+
+PUT {{Learn.Api_HostAddress}}/api/loan/CancelLoan
+Content-Type: application/json
+
+{
+  "id": 3,
+  "status": "Activo"
+}

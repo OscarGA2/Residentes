@@ -1,0 +1,9 @@
+﻿global using Microsoft.Extensions.DependencyInjection;
+global using Learn.Api.UseCases.Loan.RegisterLoan;
+global using Learn.Api.UseCases.Loan.UpdateLoan;
+global using Learn.Api.UseCases.Loan.GetLoan;
+global using Learn.Api.BusinessObjects.Residents.Interface.Loan.RegisterLoan;
+global using Learn.Api.BusinessObjects.Residents.Interface.Loan.UpdateLoan;
+global using Learn.Api.BusinessObjects.Residents.Interface.Loan.GetLoan;
+global using Learn.Api.Domain.Entities.Dtos.Loan;
+global using Learn.Api.Domain.Entities.Dtos;

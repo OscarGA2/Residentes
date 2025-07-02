@@ -7,11 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\Dtos\Loan\" />
-    <Folder Include="Entities\Dtos\Services\" />
-    <Folder Include="Entities\Dtos\Residents\Account\" />
-    <Folder Include="Entities\Dtos\Residents\Visits\" />
-    <Folder Include="Entities\Dtos\Residents\Security\" />
+    <Compile Remove="Entities\Dtos\Residents\**" />
+    <Compile Remove="Entities\Dtos\Services\**" />
+    <EmbeddedResource Remove="Entities\Dtos\Residents\**" />
+    <EmbeddedResource Remove="Entities\Dtos\Services\**" />
+    <None Remove="Entities\Dtos\Residents\**" />
+    <None Remove="Entities\Dtos\Services\**" />
   </ItemGroup>
 
 </Project>

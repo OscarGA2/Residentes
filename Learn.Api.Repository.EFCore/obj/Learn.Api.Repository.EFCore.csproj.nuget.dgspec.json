@@ -1,23 +1,93 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj": {}
+    "D:\\Estadia 2025\\Proyecto\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj": {
+    "D:\\Estadia 2025\\Proyecto\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
-        "projectName": "Learn.Api.Repository.EFCore",
-        "projectPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
-        "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\obj\\",
+        "projectUniqueName": "D:\\Estadia 2025\\Proyecto\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj",
+        "projectName": "Learn.Api.BusinessObjects",
+        "projectPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\Canica\\.nuget\\packages\\",
+        "outputPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Canica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Estadia 2025\\Proyecto\\Learn.Api.Domain\\Learn.Api.Domain.csproj": {
+                "projectPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Domain\\Learn.Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estadia 2025\\Proyecto\\Learn.Api.Domain\\Learn.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Domain\\Learn.Api.Domain.csproj",
+        "projectName": "Learn.Api.Domain",
+        "projectPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Domain\\Learn.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\Canica\\.nuget\\packages\\",
+        "outputPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Canica\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +115,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +136,97 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Estadia 2025\\Proyecto\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
+        "projectName": "Learn.Api.Repository.EFCore",
+        "projectPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
+        "packagesPath": "C:\\Users\\Canica\\.nuget\\packages\\",
+        "outputPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.Repository.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Canica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Estadia 2025\\Proyecto\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj": {
+                "projectPath": "D:\\Estadia 2025\\Proyecto\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

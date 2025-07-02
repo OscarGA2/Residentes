@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Learn.Api.Controllers\Learn.Api.Controllers.csproj" />
+    <ProjectReference Include="..\Learn.Api.Repository.EFCore\Learn.Api.Repository.EFCore.csproj" />
+    <ProjectReference Include="..\Learn.Api.UseCases\Learn.Api.UseCases.csproj" />
+  </ItemGroup>
+
 </Project>

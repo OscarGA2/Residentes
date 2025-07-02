@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Residents\Interface\" />
+    <ProjectReference Include="..\Learn.Api.Domain\Learn.Api.Domain.csproj" />
   </ItemGroup>
 
 </Project>

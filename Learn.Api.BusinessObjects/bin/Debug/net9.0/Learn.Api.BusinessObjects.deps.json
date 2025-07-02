@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Learn.Api.BusinessObjects/1.0.0": {
+        "dependencies": {
+          "Learn.Api.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Learn.Api.BusinessObjects.dll": {}
+        }
+      },
+      "Learn.Api.Domain/1.0.0": {
+        "runtime": {
+          "Learn.Api.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learn.Api.BusinessObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Learn.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

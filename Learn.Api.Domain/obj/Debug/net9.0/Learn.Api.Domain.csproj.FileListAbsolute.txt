@@ -1,0 +1,12 @@
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\bin\Debug\net9.0\Learn.Api.Domain.deps.json
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\bin\Debug\net9.0\Learn.Api.Domain.dll
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\bin\Debug\net9.0\Learn.Api.Domain.pdb
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.AssemblyInfoInputs.cache
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.AssemblyInfo.cs
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.csproj.CoreCompileInputs.cache
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.sourcelink.json
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.dll
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\refint\Learn.Api.Domain.dll
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.pdb
+D:\Estadia 2025\Proyecto\Learn.Api.Domain\obj\Debug\net9.0\ref\Learn.Api.Domain.dll
