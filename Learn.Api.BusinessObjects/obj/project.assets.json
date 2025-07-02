@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj",
+      "projectUniqueName": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj",
       "projectName": "Learn.Api.BusinessObjects",
-      "projectPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj",
+      "projectPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.BusinessObjects\\Learn.Api.BusinessObjects.csproj",
       "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.BusinessObjects\\obj\\",
+      "outputPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

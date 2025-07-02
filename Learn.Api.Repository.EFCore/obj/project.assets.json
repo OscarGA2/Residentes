@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
       "projectName": "Learn.Api.Repository.EFCore",
-      "projectPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
+      "projectPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.Repository.EFCore\\Learn.Api.Repository.EFCore.csproj",
       "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Repository.EFCore\\obj\\",
+      "outputPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.Repository.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

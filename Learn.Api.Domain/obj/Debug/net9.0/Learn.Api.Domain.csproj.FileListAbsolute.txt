@@ -1,0 +1,12 @@
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\bin\Debug\net9.0\Learn.Api.Domain.deps.json
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\bin\Debug\net9.0\Learn.Api.Domain.dll
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\bin\Debug\net9.0\Learn.Api.Domain.pdb
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.AssemblyInfo.cs
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.sourcelink.json
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.dll
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\refint\Learn.Api.Domain.dll
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\Learn.Api.Domain.pdb
+C:\Users\Oscar\Documents\GitHub\Residentes\Learn.Api.Domain\obj\Debug\net9.0\ref\Learn.Api.Domain.dll

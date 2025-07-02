@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Controllers\\Learn.Api.Controllers.csproj",
+      "projectUniqueName": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.Controllers\\Learn.Api.Controllers.csproj",
       "projectName": "Learn.Api.Controllers",
-      "projectPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Controllers\\Learn.Api.Controllers.csproj",
+      "projectPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.Controllers\\Learn.Api.Controllers.csproj",
       "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oscar\\Source\\Repos\\Residentes\\Learn.Api.Controllers\\obj\\",
+      "outputPath": "C:\\Users\\Oscar\\Documents\\GitHub\\Residentes\\Learn.Api.Controllers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
